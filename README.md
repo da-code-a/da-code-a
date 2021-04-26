@@ -1,4 +1,4 @@
-Dakota Brown (they/them)
+Dakota Brown (she/her)
 ==
 
 ![My partner and me](assets/profile.png)
@@ -13,7 +13,9 @@ Experience History
 
 I started my career in software working for a SaaS company based here in Ogden. They were looking for an IT expert, but got me instead. I quickly rose to the rank of senior developer there and helped them modernize a PHP application that was in desperate need of some TLC.
 
-After about a year and half there, I was picked up by my current employer. I have been working with them since November of 2019. Here, I am using Python and the Flask web framework to deploy an API on the AWS Lambda service. Our product helps regular people make smart investments with a solid return, while also providing capital for small business loans issued throughout the country.
+After about a year and half there, I was picked up by Worthy Financial. I worked with them November of 2019 through April of 2021. There, I used Python and the Flask web framework to deploy an API on the AWS Lambda service. Their product helps regular people make smart investments with a solid return, while also providing capital for small business loans issued throughout the country.
+
+Currently, I am working as a Site Reliability Engineer for the Sling team at DISH Networks. I am helping them modernize their pipelines, ensure downtime is nigh non-existent, and assist the development teams wherever needed.
 
 Hobbies
 --

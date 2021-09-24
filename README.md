@@ -1,4 +1,4 @@
-Dakota Brown (she/her)
+Dakota Brown (any pronouns)
 ==
 
 ![My partner and me](assets/profile.png)

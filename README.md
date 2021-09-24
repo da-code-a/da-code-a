@@ -15,7 +15,7 @@ I started my career in software working for a SaaS company based here in Ogden. 
 
 After about a year and half there, I was picked up by Worthy Financial. I worked with them November of 2019 through April of 2021. There, I used Python and the Flask web framework to deploy an API on the AWS Lambda service. Their product helps regular people make smart investments with a solid return, while also providing capital for small business loans issued throughout the country.
 
-Currently, I am working as a Site Reliability Engineer for the Sling team at DISH Networks. I am helping them modernize their pipelines, ensure downtime is nigh non-existent, and assist the development teams wherever needed.
+Currently, I am working for a wonderful company in the med-tech field and helping others in a community that means very much to me.
 
 Hobbies
 --

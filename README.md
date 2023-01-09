@@ -1,7 +1,5 @@
-Dakota Brown (any pronouns)
+Dakota Brown (she/they)
 ==
-
-![My partner and me](assets/profile.png)
 
 About Me
 --
@@ -24,12 +22,10 @@ Obviously, I love writing code. I would put more on here if only I had the time.
 
 * Coffee making (pour-over is best method, and I'll fight you on that)
 * Playing Animal Crossing and Zelda
-* Hanging out with my partner
-* Wondering how our children have that much energy
-* Being bewildered by the amount of things that the children never play with are out of their respective homes
+* Wondering how my children have that much energy
 * Making and drinking more coffee (to deal with said children without losing my mind)
 
 Goals
 --
 
-Ultimately, I want to retire in Washington or Oregon with my partner. We can buy a tiny home and operate a coffee shop of our own. Before then, though, I would also like to move my way up to CTO somewhere, make something that truly changes at least one person's life, and discover the secret to cooking more than just pasta and HelloFresh recipes.
+Increase the overall amount of joy and love in the world.

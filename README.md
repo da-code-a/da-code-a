@@ -1,31 +1,26 @@
-Dakota Brown (she/they)
-==
+# Dakota Brown (she/her)
 
-About Me
---
 
-I am a (primarily Python) developer in northern Utah. I got my start as a high-school teacher in California, but found my love for technology to be a more fulfilling career. Now, I enjoy work where I can make neat things and help out those who need it.
+![Dakota (right) and her wife, Deven (left), sitting together and smiling at the camera](./assets/main_img.jpg)
 
-Experience History
---
+## About Me
 
-I started my career in software working for a SaaS company based here in Ogden. They were looking for an IT expert, but got me instead. I quickly rose to the rank of senior developer there and helped them modernize a PHP application that was in desperate need of some TLC.
+I am Dakota and I like to make things. This includes everything from small APIs to entire small humans. Well, I at least helped make the humans. I'm a developer and devops engineer based in northern Utah. Off-line, I'm a parent, a coffee lover, and a sparkling water addict. My wife and I are mostly home-bodies, but we enjoy getting out when we have the Goldilocks weather conditions we love.
 
-After about a year and half there, I was picked up by Worthy Financial. I worked with them November of 2019 through April of 2021. There, I used Python and the Flask web framework to deploy an API on the AWS Lambda service. Their product helps regular people make smart investments with a solid return, while also providing capital for small business loans issued throughout the country.
+## Technical Skills
 
-Currently, I am working for a wonderful company in the med-tech field and helping others in a community that means very much to me.
+ - Python
+ - Terraform
+ - NodeJS
+ - Linux administration
+ - Bash scripting
+ - Salt Stack
+ - Perl
+ - PHP
 
-Hobbies
---
+ ## Work History
 
-Obviously, I love writing code. I would put more on here if only I had the time. However, that's neither here nor there and I have other interests, too. These include:
-
-* Coffee making (pour-over is best method, and I'll fight you on that)
-* Playing Animal Crossing and Zelda
-* Wondering how my children have that much energy
-* Making and drinking more coffee (to deal with said children without losing my mind)
-
-Goals
---
-
-Increase the overall amount of joy and love in the world.
+  - [Shopper Approved](https://shopperapproved.com); Senior Developer; April 2018 - November 2019
+  - [Worthy Financial](https://worthybonds.com); Senior Backend Engineer; November 2019 - June 2021
+  - [Plume Health](https://getplume.co); Senior DevOps Engineer; June 2021 -
+  - [Unicity International](https://unicity.com); Senior DevOps Engineer; June 2023 -

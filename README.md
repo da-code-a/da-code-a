@@ -23,4 +23,4 @@ I am Dakota and I like to make things. This includes everything from small APIs 
   - [Shopper Approved](https://shopperapproved.com); Senior Developer; April 2018 - November 2019
   - [Worthy Financial](https://worthybonds.com); Senior Backend Engineer; November 2019 - June 2021
   - [Plume Health](https://getplume.co); Senior DevOps Engineer; June 2021 -
-  - [Unicity International](https://unicity.com); Senior DevOps Engineer; June 2023 -
+  

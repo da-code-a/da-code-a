@@ -1,11 +1,8 @@
 # Dakota Brown (she/her)
 
-
-![Dakota (right) and her wife, Deven (left), sitting together and smiling at the camera](./assets/main_img.jpg)
-
 ## About Me
 
-I am Dakota and I like to make things. This includes everything from small APIs to entire small humans. Well, I at least helped make the humans. I'm a developer and devops engineer based in northern Utah. Off-line, I'm a parent, a coffee lover, and a sparkling water addict. My wife and I are mostly home-bodies, but we enjoy getting out when we have the Goldilocks weather conditions we love.
+I am Dakota and I like to make things. I'm a developer and devops engineer based in northern Utah.
 
 ## Technical Skills
 
